@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lukas</h1>
+<h1 align="center">Hi 👋, I'm Lukske <i>(Lukas)</i> </h1>
 
 <h2 align="center">
   <img src="https://img.shields.io/badge/from Germany-6c5ce7?style=for-the-badge" height="40">
@@ -9,7 +9,9 @@
 
 ### 🔭 I’m currently studying **Applied Informatics**
 ### 🌱 Learning **Julia, Dart and C**
-### 🧰 Right now I'm building stuff with **Arduino, LoRa devices + Meshtastic**
+### 🦀⚡ Just Started learning **Rust** and **JavaScript**
+### 😮‍💨 Currently suffering through exam season
+### 🧑‍💻 In my free time I'm building stuff with **Arduino, LoRa devices + Meshtastic**
 
 ---
 ---
