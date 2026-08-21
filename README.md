@@ -10,7 +10,6 @@
 ### 🔭 I’m currently studying **Applied Informatics**
 ### 🌱 Learning **Julia, Dart and C**
 ### 🦀⚡ Just Started learning **Rust** and **JavaScript**
-### 😮‍💨 Currently suffering through exam season
 ### 🧑‍💻 In my free time I'm building stuff with **Arduino, LoRa devices + Meshtastic**
 
 ---
